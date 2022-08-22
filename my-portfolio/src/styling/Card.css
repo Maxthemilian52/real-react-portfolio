@@ -1,0 +1,32 @@
+.card-size{
+    height: 10rem;
+    width: 18rem;
+}
+
+.background{
+    width: 100%;
+    height: 100%;
+    
+    background-color: rgb(39, 39, 39);
+    background-blend-mode: screen, darken,hue;
+}
+
+.card-image{
+    width: 16rem;
+    height: 12rem;
+    padding:1rem;
+}
+
+@media (max-width:1450){
+    .card-size{
+        width: 4rem;
+        height: 6rem;
+    }   
+}
+
+@media (max-width:600px){
+    .card-size{
+        width: 2rem;
+        height: 4rem;
+    }
+}

@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body, html{
+    background-color: rgb(39, 39, 39);
+}
+
+.aboutme-container{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(39, 39, 39);
+    color: aliceblue;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 2rem;
+    background-blend-mode: screen, darken,hue;
+}
+
+.img{
+    padding: 5%;
+    height: 70%;
+    width: 70%;
+}
+
+.aboutme-content{
+    padding: 3%;
+}
+.aboutme-title{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 5rem;
+}
+
+.aboutme-p{
+    font-size: 110%;
+}
+
+@media (max-width:600px){
+    .aboutme-container{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}

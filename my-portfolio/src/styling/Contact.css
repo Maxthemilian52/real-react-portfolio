@@ -1,0 +1,34 @@
+.contact-background{
+    width: 100%;
+    height: 80rem;
+    background-size: auto;
+    background-color: rgb(39, 39, 39);
+    display: flex;
+    justify-content: center;
+}
+
+.contact-title{
+    padding-top: 10%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.info{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.img-position{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.contact-img{
+    height: 5rem;
+    width: 5rem;
+    padding: 1rem;
+}
