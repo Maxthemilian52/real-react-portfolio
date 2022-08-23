@@ -15,23 +15,23 @@ function App() {
       <Router>
               <Routes>
                 <Route 
-                  path="/"
+                  path="/real-react-portfolio"
                   element={<Home />}
                 />
                 <Route 
-                  path="/aboutMe"
+                  path="/real-react-portfolio/aboutMe"
                   element={<AboutMe />}
                 />
                 <Route 
-                  path="/resume"
+                  path="/real-react-portfolio/resume"
                   element={<Resume />}
                 />
                 <Route 
-                  path="/contact"
+                  path="/real-react-portfolio/contact"
                   element={<Contact />}
                 />
                 <Route 
-                  path="/portfolio"
+                  path="/real-react-portfolio/portfolio"
                   element={<Portfolio />}
                 />
               </Routes>
