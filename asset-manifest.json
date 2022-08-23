@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/%7Breal-react-portfolio%7D/static/css/main.0cd84ecb.css",
+    "main.js": "/%7Breal-react-portfolio%7D/static/js/main.d7f851a6.js",
+    "static/js/787.128fc6e9.chunk.js": "/%7Breal-react-portfolio%7D/static/js/787.128fc6e9.chunk.js",
+    "static/media/blurProf.jpg": "/%7Breal-react-portfolio%7D/static/media/blurProf.dffd655b4ef0c624decc.jpg",
+    "static/media/FakeResume.jpg": "/%7Breal-react-portfolio%7D/static/media/FakeResume.aafab17790eb57b4d065.jpg",
+    "static/media/aboutMeNew2.jpg": "/%7Breal-react-portfolio%7D/static/media/aboutMeNew2.13b835d03a66ef459fc8.jpg",
+    "static/media/sql-logo.png": "/%7Breal-react-portfolio%7D/static/media/sql-logo.85fb38d6773862e917f4.png",
+    "static/media/express-logo.png": "/%7Breal-react-portfolio%7D/static/media/express-logo.915b89629a5fefdb6ca0.png",
+    "static/media/GitHubLogoBW.png": "/%7Breal-react-portfolio%7D/static/media/GitHubLogoBW.4d74fd76ac168df7723c.png",
+    "static/media/ORM.png": "/%7Breal-react-portfolio%7D/static/media/ORM.df8056519399d7f33ce9.png",
+    "static/media/react-logo-1.png": "/%7Breal-react-portfolio%7D/static/media/react-logo-1.44319306359c7112276d.png",
+    "static/media/mongo-logo-1.png": "/%7Breal-react-portfolio%7D/static/media/mongo-logo-1.c964002ecef4971216d0.png",
+    "static/media/GmailBW.png": "/%7Breal-react-portfolio%7D/static/media/GmailBW.11a6b0a486c50ad3b65d.png",
+    "index.html": "/%7Breal-react-portfolio%7D/index.html",
+    "main.0cd84ecb.css.map": "/%7Breal-react-portfolio%7D/static/css/main.0cd84ecb.css.map",
+    "main.d7f851a6.js.map": "/%7Breal-react-portfolio%7D/static/js/main.d7f851a6.js.map",
+    "787.128fc6e9.chunk.js.map": "/%7Breal-react-portfolio%7D/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cd84ecb.css",
+    "static/js/main.d7f851a6.js"
+  ]
+}
