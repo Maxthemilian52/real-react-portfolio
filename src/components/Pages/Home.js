@@ -11,7 +11,7 @@ function Home({ currentPage, changePage }){
                             <h1>My Name is Maximilian.</h1>
                             <p>I'm a full-stack developer based out of Columbus, Ohio passionate about team work and creating problem-solving solutions.</p>
                         </div>
-                    <a href="#Portfolio" onClick={()=> changePage('Portfolio')}><button className="button">My Projects</button></a>
+                    {/* <a href="#Portfolio" onClick={()=> changePage('Portfolio')}><button className="button">My Projects</button></a> */}
                 </div>
         </div>
     )
