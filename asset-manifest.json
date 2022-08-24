@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/real-react-portfolio/static/css/main.46971b6f.css",
-    "main.js": "/real-react-portfolio/static/js/main.be0785ee.js",
+    "main.js": "/real-react-portfolio/static/js/main.839bc3e8.js",
     "static/js/787.128fc6e9.chunk.js": "/real-react-portfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/blurProf.jpg": "/real-react-portfolio/static/media/blurProf.dffd655b4ef0c624decc.jpg",
     "static/media/FakeResume.jpg": "/real-react-portfolio/static/media/FakeResume.aafab17790eb57b4d065.jpg",
@@ -15,11 +15,11 @@
     "static/media/GmailBW.png": "/real-react-portfolio/static/media/GmailBW.11a6b0a486c50ad3b65d.png",
     "index.html": "/real-react-portfolio/index.html",
     "main.46971b6f.css.map": "/real-react-portfolio/static/css/main.46971b6f.css.map",
-    "main.be0785ee.js.map": "/real-react-portfolio/static/js/main.be0785ee.js.map",
+    "main.839bc3e8.js.map": "/real-react-portfolio/static/js/main.839bc3e8.js.map",
     "787.128fc6e9.chunk.js.map": "/real-react-portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.46971b6f.css",
-    "static/js/main.be0785ee.js"
+    "static/js/main.839bc3e8.js"
   ]
 }
