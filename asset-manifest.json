@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.c909e710.css",
-    "main.js": "/static/js/main.156f1727.js",
-    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
-    "static/media/blurProf.jpg": "/static/media/blurProf.dffd655b4ef0c624decc.jpg",
-    "static/media/FakeResume.jpg": "/static/media/FakeResume.aafab17790eb57b4d065.jpg",
-    "static/media/aboutMeNew2.jpg": "/static/media/aboutMeNew2.13b835d03a66ef459fc8.jpg",
-    "static/media/sql-logo.png": "/static/media/sql-logo.85fb38d6773862e917f4.png",
-    "static/media/express-logo.png": "/static/media/express-logo.915b89629a5fefdb6ca0.png",
-    "static/media/GitHubLogoBW.png": "/static/media/GitHubLogoBW.4d74fd76ac168df7723c.png",
-    "static/media/ORM.png": "/static/media/ORM.df8056519399d7f33ce9.png",
-    "static/media/react-logo-1.png": "/static/media/react-logo-1.44319306359c7112276d.png",
-    "static/media/mongo-logo-1.png": "/static/media/mongo-logo-1.c964002ecef4971216d0.png",
-    "static/media/GmailBW.png": "/static/media/GmailBW.11a6b0a486c50ad3b65d.png",
-    "index.html": "/index.html",
-    "main.c909e710.css.map": "/static/css/main.c909e710.css.map",
-    "main.156f1727.js.map": "/static/js/main.156f1727.js.map",
-    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+    "main.css": "/real-react-portfolio/static/css/main.46971b6f.css",
+    "main.js": "/real-react-portfolio/static/js/main.fe2caa3f.js",
+    "static/js/787.128fc6e9.chunk.js": "/real-react-portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/blurProf.jpg": "/real-react-portfolio/static/media/blurProf.dffd655b4ef0c624decc.jpg",
+    "static/media/FakeResume.jpg": "/real-react-portfolio/static/media/FakeResume.aafab17790eb57b4d065.jpg",
+    "static/media/aboutMeNew2.jpg": "/real-react-portfolio/static/media/aboutMeNew2.13b835d03a66ef459fc8.jpg",
+    "static/media/sql-logo.png": "/real-react-portfolio/static/media/sql-logo.85fb38d6773862e917f4.png",
+    "static/media/express-logo.png": "/real-react-portfolio/static/media/express-logo.915b89629a5fefdb6ca0.png",
+    "static/media/GitHubLogoBW.png": "/real-react-portfolio/static/media/GitHubLogoBW.4d74fd76ac168df7723c.png",
+    "static/media/ORM.png": "/real-react-portfolio/static/media/ORM.df8056519399d7f33ce9.png",
+    "static/media/react-logo-1.png": "/real-react-portfolio/static/media/react-logo-1.44319306359c7112276d.png",
+    "static/media/mongo-logo-1.png": "/real-react-portfolio/static/media/mongo-logo-1.c964002ecef4971216d0.png",
+    "static/media/GmailBW.png": "/real-react-portfolio/static/media/GmailBW.11a6b0a486c50ad3b65d.png",
+    "index.html": "/real-react-portfolio/index.html",
+    "main.46971b6f.css.map": "/real-react-portfolio/static/css/main.46971b6f.css.map",
+    "main.fe2caa3f.js.map": "/real-react-portfolio/static/js/main.fe2caa3f.js.map",
+    "787.128fc6e9.chunk.js.map": "/real-react-portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c909e710.css",
-    "static/js/main.156f1727.js"
+    "static/css/main.46971b6f.css",
+    "static/js/main.fe2caa3f.js"
   ]
 }
