@@ -11,7 +11,7 @@ function Home(){
                             <h1>My Name is Maximilian.</h1>
                             <p>I'm a full-stack developer based out of Columbus, Ohio passionate about team work and creating problem-solving solutions.</p>
                         </div>
-                    <a href="/portfolio"><button className="button">My Projects</button></a>
+                    <a href="/real-react-portfolio/portfolio"><button className="button">My Projects</button></a>
                 </div>
         </div>
     )
