@@ -11,8 +11,18 @@
 }
 
 .resume{
-   width:60%; 
+   width:40%; 
    padding: 1rem;
+}
+
+.resume-download{
+    text-decoration: none;
+    color: white;
+}
+
+.resume-download:hover{
+    color: white;
+    text-shadow: 0px 0px 10px #0ff;
 }
 
 .resume-text{

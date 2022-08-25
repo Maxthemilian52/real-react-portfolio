@@ -1,5 +1,6 @@
 import React from 'react';
-import FakeResume from '../../assets/FakeResume.jpg'
+import RealResume from '../../assets/Resume-jpg.jpg';
+import DownloadResume from "../../assets/Resume.pdf";
 import '../../styling/Resume.css'
 
 function Resume(){
@@ -7,11 +8,9 @@ function Resume(){
         <div className="resume-container">
             <div className="resume-text">
                 <h1>My Resume</h1>
-                <p>Download Here!</p>
+                <a href={DownloadResume} download="Max Shaw Resume" className="resume-download"><p>Download Here!</p></a>
             </div>
-            <img src={FakeResume} className="resume" alt="max's resume"></img>
-            <img src={FakeResume} className="resume" alt="max's resume"></img>
-            <img src={FakeResume} className="resume" alt="max's resume"></img>
+            <img src={RealResume} className="resume" alt="max's resume"></img>
         </div>
     )
 }
