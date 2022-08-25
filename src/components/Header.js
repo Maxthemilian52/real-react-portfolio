@@ -16,10 +16,10 @@ function Header({ currentPage, changePage }) {
             <NavDropdown title="Check It!" id="basic-nav-dropdown">
               <NavDropdown.Item href="#Portfolio" onClick={()=> changePage('Portfolio')}>Portfolio</NavDropdown.Item>
               <NavDropdown.Item href="#AboutMe" onClick={()=> changePage('AboutMe')}>About Me</NavDropdown.Item>
-              <NavDropdown.Item href="#Contact" onClick={()=> changePage('Contact')}>Contact</NavDropdown.Item>
               <NavDropdown.Item href="#Resume" onClick={()=> changePage('Resume')}>Resume</NavDropdown.Item>
+              <NavDropdown.Item href="#Contact" onClick={()=> changePage('Contact')}>Contact</NavDropdown.Item>
               <NavDropdown.Divider />
-              <NavDropdown.Item href="https://github.com/Maxthemilian52">
+              <NavDropdown.Item href="https://github.com/Maxthemilian52" target="blank">
                 My GitHub!
               </NavDropdown.Item>
             </NavDropdown>

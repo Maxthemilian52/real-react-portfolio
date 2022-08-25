@@ -47,8 +47,8 @@
 
 @media (max-width:600px) {
     .background{
-        width: 50%;
-        height: 50%;
+        width: 10%;
+        height: 10%;
         background-image: url(../assets/blurProf.jpg);
         background-repeat: no-repeat;
         background-attachment: fixed;

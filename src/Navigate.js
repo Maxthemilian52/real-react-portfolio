@@ -12,7 +12,7 @@ function Navigation() {
 
     const renderPage = () => {
         if (currentPage === 'Home') {
-            return <Home />
+            return <Home changePage={changePage}/>
         }
         if (currentPage === 'Portfolio') {
             return <Portfolio />
@@ -35,8 +35,6 @@ function Navigation() {
             <Header currentPage={currentPage} changePage={changePage}></Header>
             {renderPage()}
         </div>
-
-        
     );
 };
 
