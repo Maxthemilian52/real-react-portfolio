@@ -1,5 +1,5 @@
 import React from 'react';
-import RealResume from '../../assets/Resume-jpg.jpg';
+import RealResume from '../../assets/ResumeJpg.jpg';
 import DownloadResume from "../../assets/Resume.pdf";
 import '../../styling/Resume.css'
 

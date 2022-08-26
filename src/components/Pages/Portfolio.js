@@ -49,7 +49,9 @@ class Portfolio extends React.Component{
                         <div className="grow"><TemplateCard callBack={this.handleCallback} title="Employee CMS" description="Content Management System" imageSrc={SQL}></TemplateCard></div>  
                     </div>
                 </div> 
+                <div id="description-section">
                     {description}
+                </div>
             </div>
         );
     };
