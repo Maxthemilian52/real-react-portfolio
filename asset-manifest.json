@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/real-react-portfolio/static/css/main.f48e122b.css",
-    "main.js": "/real-react-portfolio/static/js/main.df84368d.js",
+    "main.js": "/real-react-portfolio/static/js/main.96f732da.js",
     "static/js/787.128fc6e9.chunk.js": "/real-react-portfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/blurProf.jpg": "/real-react-portfolio/static/media/blurProf.dffd655b4ef0c624decc.jpg",
+    "static/media/ResumeJpg.jpg": "/real-react-portfolio/static/media/ResumeJpg.a4527194ef8104ca4b73.jpg",
     "static/media/aboutMeNew2.jpg": "/real-react-portfolio/static/media/aboutMeNew2.13b835d03a66ef459fc8.jpg",
     "static/media/sql-logo.png": "/real-react-portfolio/static/media/sql-logo.85fb38d6773862e917f4.png",
     "static/media/express-logo.png": "/real-react-portfolio/static/media/express-logo.915b89629a5fefdb6ca0.png",
     "static/media/GitHubLogoBW.png": "/real-react-portfolio/static/media/GitHubLogoBW.4d74fd76ac168df7723c.png",
-    "static/media/Resume-jpg.jpg": "/real-react-portfolio/static/media/Resume-jpg.d46659c0a783e6708c30.jpg",
-    "static/media/Resume.pdf": "/real-react-portfolio/static/media/Resume.b09e3b1bfb7a369d1f51.pdf",
+    "static/media/Resume.pdf": "/real-react-portfolio/static/media/Resume.d034f56997930305471a.pdf",
     "static/media/ORM.png": "/real-react-portfolio/static/media/ORM.df8056519399d7f33ce9.png",
     "static/media/react-logo-1.png": "/real-react-portfolio/static/media/react-logo-1.44319306359c7112276d.png",
     "static/media/mongo-logo-1.png": "/real-react-portfolio/static/media/mongo-logo-1.c964002ecef4971216d0.png",
     "static/media/GmailBW.png": "/real-react-portfolio/static/media/GmailBW.11a6b0a486c50ad3b65d.png",
     "index.html": "/real-react-portfolio/index.html",
     "main.f48e122b.css.map": "/real-react-portfolio/static/css/main.f48e122b.css.map",
-    "main.df84368d.js.map": "/real-react-portfolio/static/js/main.df84368d.js.map",
+    "main.96f732da.js.map": "/real-react-portfolio/static/js/main.96f732da.js.map",
     "787.128fc6e9.chunk.js.map": "/real-react-portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f48e122b.css",
-    "static/js/main.df84368d.js"
+    "static/js/main.96f732da.js"
   ]
 }
