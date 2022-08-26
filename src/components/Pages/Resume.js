@@ -8,7 +8,7 @@ function Resume(){
         <div className="resume-container">
             <div className="resume-text">
                 <h1>My Resume</h1>
-                <a href={DownloadResume} download="Max Shaw Resume" className="resume-download"><p>Download Here!</p></a>
+                <a href={DownloadResume} download="Max Shaw Resume" className="resume-download"><p>Download</p></a>
             </div>
             <img src={RealResume} className="resume" alt="max's resume"></img>
         </div>

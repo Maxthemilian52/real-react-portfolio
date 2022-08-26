@@ -14,13 +14,13 @@ function AboutMe() {
                         I just completed The Ohio State's 12 week Full Stack Web-Development Bootcamp and am working to become a Jr. Developer!
                         </p>
                         <p className="aboutme-p">
-                                Having just switched career paths, computer science is still new to me which is an aspect that I find very exciting!
-                        There is nothing better than discovering new and more efficient ways to tackle problems.  The idea of constantly learning throughout
-                        the progression of your career is something that pushes me to pursue this profession.  I am always ready and willing to learn!
+                                Having just switched career paths and after completing Ohio State's Bootcamp, computer science is an open world of learning
+                        which I find very exciting! There is nothing better than discovering new and more efficient ways to tackle problems.  The idea of constantly learning
+                        throughout the progression of your career is something that pushes me to pursue this profession.  I am always ready and willing to learn!
                         </p>
                         <p className="aboutme-p">
                                 Passing The Ohio State's 12 week Full Stack Web-Development Bootcamp with an A has definitely been my biggest accomplishment so far. 
-                         I am also currently working on a webpage for the Columbus Museum of art alongside a couple of classmates.
+                         As I look for possible job prospects, I am also working on personal projects to further my knowledge and gain more experience.
                         </p>
                 </div>
         </div>
