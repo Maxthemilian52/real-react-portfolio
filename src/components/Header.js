@@ -13,14 +13,14 @@ function Header({ currentPage, changePage }) {
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
             <Nav.Link href="#Home" onClick={()=> changePage('Home')}>Home</Nav.Link>
-            <NavDropdown title="Check It!" id="basic-nav-dropdown">
+            <NavDropdown title="More" id="basic-nav-dropdown">
               <NavDropdown.Item href="#Portfolio" onClick={()=> changePage('Portfolio')}>Portfolio</NavDropdown.Item>
               <NavDropdown.Item href="#AboutMe" onClick={()=> changePage('AboutMe')}>About Me</NavDropdown.Item>
               <NavDropdown.Item href="#Resume" onClick={()=> changePage('Resume')}>Resume</NavDropdown.Item>
               <NavDropdown.Item href="#Contact" onClick={()=> changePage('Contact')}>Contact</NavDropdown.Item>
               <NavDropdown.Divider />
               <NavDropdown.Item href="https://github.com/Maxthemilian52" target="blank">
-                My GitHub!
+                My GitHub
               </NavDropdown.Item>
             </NavDropdown>
           </Nav>

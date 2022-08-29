@@ -32,8 +32,8 @@ class Portfolio extends React.Component{
         } else{
             title =
             <div className="portfolio-title">
-                <h1 >Welcome to My Portfolio!</h1>
-                <h3>The Cards below are some of the projects I completed during my Web Development Bootcamp</h3>
+                <h1 >Welcome to My Portfolio</h1>
+                <h3>Below are some projects I completed during my Web Development Bootcamp</h3>
             </div>
         }
 

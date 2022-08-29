@@ -27,7 +27,7 @@ class TemplateTab extends React.Component{
                             <Tab eventKey="overview" title="Project Overview">
                             <div className="tab tab-button-position">
                                 <a href={this.props.github} target="blank">
-                                    <button className="tab-button tab-button-glow">View Project Code!</button>
+                                    <button className="tab-button tab-button-glow">View Project Code</button>
                                 </a>
                                 <p className='tab-content'>{this.props.overview}</p>
                             </div>

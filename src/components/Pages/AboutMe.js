@@ -10,12 +10,12 @@ function AboutMe() {
                 <div className="aboutme-content">
                     <h2 className="aboutme-title">About Me</h2>
                         <p className="aboutme-p">
-                                Hello! My name is Maximilian Shaw, you can call me Max!  I am a full-stack developer from Columbus, Ohio.
-                        I just completed The Ohio State's 12 week Full Stack Web-Development Bootcamp and am working to become a Jr. Developer!
+                                Hello! My name is Maximilian Shaw, you can call me Max.  I am a full-stack developer from Columbus, Ohio.
+                        I just completed The Ohio State's 12 week Full Stack Web-Development Bootcamp and am working towards becoming a Jr. Developer.
                         </p>
                         <p className="aboutme-p">
                                 Having just switched career paths and after completing Ohio State's Bootcamp, computer science is an open world of learning
-                        which I find very exciting! There is nothing better than discovering new and more efficient ways to tackle problems.  The idea of constantly learning
+                        which I find very exciting. There is nothing better than discovering new and more efficient ways to tackle problems.  The idea of constantly learning
                         throughout the progression of your career is something that pushes me to pursue this profession.  I am always ready and willing to learn!
                         </p>
                         <p className="aboutme-p">
